@@ -27,7 +27,7 @@ const Edit = () => {
           navigate(-1);
         }}
       >
-        뒤로가기
+        뒤로가기1
       </button>
     </div>
   );
